@@ -1,0 +1,1 @@
+This is the chapter two. Actually, I didn't care enough to understand that the first file was named as Chapter1.txt. Instead, I named it as text1.txt. Anyway, this is nothing but to learn how to work with Git Version control.
